@@ -116,42 +116,74 @@ O objetivo do sistema é transformar dados educacionais em informações estrat�
 
 bigview-analytics/
 │
+
 ├── app.py
+
 ├── auth.py
+
 ├── bot_telegram.py
+
 ├── database.py
+
 │
 ├── analytics/
+
 │   ├── evasao.py
+
 │   ├── previsao.py
+
 │   ├── ranking.py
+
 │   ├── heatmap.py
+
 │   └── turma.py
+
 │
 ├── chatbot/
+
 │   ├── ia.py
+
 │   ├── contexto.py
+
 │   ├── respostas.py
+
 │   └── treinamento/
+
 │       └── base_conhecimento.txt
+
 │
 ├── dashboard/
+
 │   ├── home.py
+
 │   ├── relatorios.py
+
 │   ├── graficos.py
+
 │   └── tempo_real.py
+
 │
+
 ├── uploads/
+
 ├── data/
+
 ├── reports/
+
 │   ├── relatorio.pdf
+
 │   └── relatorio.xlsx
+
 │
 ├── assets/
+
 │
 ├── requirements.txt
+
 ├── .env
+
 └── README.md
+
 
 --------------------------------------------------
 
