@@ -190,15 +190,25 @@ bigview-analytics/
 # 🛠️ Tecnologias Utilizadas
 
 Python → Backend
+
 Streamlit → Dashboard
+
 Pandas → Manipulação de dados
+
 Plotly → Gráficos interativos
+
 Seaborn → Heatmaps
+
 Scikit-Learn → Machine Learning
+
 Telegram Bot API → Chatbot
+
 OpenAI API → Inteligência Artificial
+
 Supabase → Banco de dados e autenticação
+
 ReportLab → Geração de PDF
+
 OpenPyXL → Exportação Excel
 
 --------------------------------------------------
@@ -207,7 +217,6 @@ OpenPyXL → Exportação Excel
 
 1. Clone o projeto
 
-git clone https://github.com/seuusuario/bigview-analytics.git
 
 --------------------------------------------------
 
