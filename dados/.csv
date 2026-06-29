@@ -1,0 +1,21 @@
+﻿ID,Nome,Idade,Curso,Cidade,Presencas,Faltas,Nota_Final,Satisfacao
+1,Ana Souza,19,ADS,Rio de Janeiro,18,2,8.7,5
+2,Carlos Lima,22,Engenharia,Rio de Janeiro,16,4,7.5,4
+3,Mariana Alves,20,ADS,Niterói,20,0,9.8,5
+4,Pedro Santos,24,Sistemas,Duque de Caxias,15,5,6.9,3
+5,Juliana Costa,21,ADS,Rio de Janeiro,19,1,9.2,5
+6,Lucas Rocha,23,Engenharia,Niterói,14,6,6.5,3
+7,Fernanda Silva,20,Sistemas,São Gonçalo,17,3,8.0,4
+8,Gabriel Oliveira,22,ADS,Rio de Janeiro,20,0,9.5,5
+9,Beatriz Martins,19,ADS,Niterói,18,2,8.8,4
+10,Rafael Gomes,25,Engenharia,Duque de Caxias,13,7,5.9,2
+11,Camila Ferreira,21,Sistemas,Rio de Janeiro,16,4,7.2,4
+12,Thiago Pereira,23,ADS,São Gonçalo,19,1,9.0,5
+13,Larissa Melo,20,ADS,Niterói,17,3,8.1,4
+14,João Henrique,24,Engenharia,Rio de Janeiro,12,8,5.5,2
+15,Patrícia Dias,22,Sistemas,Duque de Caxias,18,2,8.4,5
+16,Matheus Costa,21,ADS,Rio de Janeiro,20,0,9.7,5
+17,Amanda Ribeiro,19,ADS,Niterói,15,5,7.0,3
+18,Bruno Teixeira,23,Engenharia,São Gonçalo,14,6,6.2,3
+19,Vanessa Lopes,20,Sistemas,Rio de Janeiro,18,2,8.5,4
+20,Felipe Nunes,22,ADS,Niterói,19,1,9.1,5
